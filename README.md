@@ -1,4 +1,4 @@
-Pico
+Picotutu
 ====
 
 [![License](https://picocms.github.io/badges/pico-license.svg)](https://github.com/picocms/Pico/blob/master/LICENSE.md)
